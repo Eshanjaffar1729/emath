@@ -54,6 +54,7 @@ relationships between a dependent variables and one or more independent variable
 line that most closely fits the data according to a specific mathematical criterion
 </ul>
 
+$$Y_i = f(X_i,\beta)+e_i$$
 
 <h3>WHERE:</h3>
 <ul>
@@ -77,7 +78,7 @@ mean (MM) or rolling mean
 calculated as:
 </ul>
 
-$$SMA_k = \frac{p_{k-n+1}+p_{k-n+2}+\ddots+p_{n-1}+p_{n}}{k}=\farc{1}{k}\cdot\summation{i=k-n+1}{n}(p_i)$$
+$$SMA_k = \frac{p_{k-n+1}+p_{k-n+2}+\vdots+p_{n-1}+p_{n}}{k}=\frac{1}{k}\cdot\summation{i=k-n+1}{n}(p_i)$$
 
 <h2>Contributions</h2>
 The project was made by the following students</b>
@@ -88,7 +89,16 @@ The project was made by the following students</b>
 <li>Rayan Paul
 </ol>
  
- 
+ <h2>Special Thanks to:</h2>
+ This project wouldn’t have been possible
+without the help and guidance from our
+beloved teachers 
+ <ul>
+ <li>Ms.Leena Iteera
+ <li>Ms.Jisha Rijo 
+  <li>Ms.Latha(HOD)
+ </ul>
+ and many other.
 <h2>SOFTWARE REQUIREMENTS</h2>
 <ul>
 <li>Python 3
