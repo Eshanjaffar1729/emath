@@ -99,5 +99,5 @@ beloved teachers
  <li>Ms.Jisha Rijo 
   <li>Ms.Latha(HOD)
  </ul>
- and many other including our class teacher.
+ and many other including our class teacher and classmates.
 
