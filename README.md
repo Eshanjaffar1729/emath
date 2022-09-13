@@ -1,4 +1,4 @@
-<h1 align="center"><u>moving averages and correlation</u></h1>
+<h1 align="center"><u>Moving averages and correlation</u></h1>
 <br>
 <br>
 <h2>INTRODUCTION</h2>
