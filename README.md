@@ -35,6 +35,7 @@ definite way
 </ul>
 
 <h2<KARL PEARSON'S COEFFICIENT OF CORRELATION</h2>
+$$\frac{n\sum x_iy_i -\sum x_i\sum y_i }{\sqrt{n\sum x_i^2-(\sum x_i )^2}-\sqrt{n\sum y_i ^2-(\sum y_i )^2}}$$
 <ul>
 <li>This is also known as product
 moment correlation coefficient
@@ -78,7 +79,7 @@ mean (MM) or rolling mean
 calculated as:
 </ul>
 
-$$SMA_k = \frac{p_{k-n+1}+p_{k-n+2}+\vdots+p_{n-1}+p_{n}}{k}=\frac{1}{k}\cdot\summation{i=k-n+1}{n}(p_i)$$
+$$SMA_k = \frac{p_{k-n+1}+p_{k-n+2}+\vdots+p_{n-1}+p_{n}}{k}=\frac{1}{k}\cdot\sum_{i=k-n+1}^{n}(p_i)$$
 
 <h2>Contributions</h2>
 The project was made by the following students</b>
