@@ -99,10 +99,5 @@ beloved teachers
  <li>Ms.Jisha Rijo 
   <li>Ms.Latha(HOD)
  </ul>
- and many other.
-<h2>SOFTWARE REQUIREMENTS</h2>
-<ul>
-<li>Python 3
-<li>MySQL
-<li>Windows/mac OS/Linux
-</ul>
+ and many other including our class teacher.
+
